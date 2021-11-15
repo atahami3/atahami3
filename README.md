@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**atahami3/atahami3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> Hi there, I'm Ali 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> Hi there, I'm Ali
 
 
 - 🔭 I’m currently Pursuing a B.S. in Computer 
@@ -17,8 +10,6 @@ Here are some ideas to get you started:
   <a target="_blank"href="https://www.linkedin.com/in/ali-tahami-86b3b0226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midsu&layout=compact)](https://github.com/midsuh/github-readme-stats)
 
 <summary><b>Technologies</b></summary> 
 
@@ -41,8 +32,8 @@ Here are some ideas to get you started:
   <summary><b>Stats</b></summary>
 
    <div>
-  <a href="https://github.com/midsu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=midsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <a href="https://github.com/atahami3">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atahami3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 
 </div>
 </details>
@@ -50,14 +41,4 @@ Here are some ideas to get you started:
 
 #### E-BusinessCard
 - :paperclip: [My Resume/CV](link...)
-- :email: hsirusaf@gmail.com  
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :email: atahami3@csu.fullerton.edu 
