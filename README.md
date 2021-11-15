@@ -8,8 +8,10 @@
 📫 Reach me on
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/ali-tahami-86b3b0226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+  <!--![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)-->
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atahami3&layout=compact)](https://github.com/midsuh/github-readme-stats)
 
 <summary><b>Technologies</b></summary> 
 
