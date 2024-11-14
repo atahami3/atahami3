@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a> Hi there, I'm Ali
 
 
-- 🔭 I’m currently Pursuing a B.S. in Computer 
+- 🔭 I’m currently Pursuing a B.S. in Computer Science
 - 🌱 I’m attending Cal State University, Fullerton
 - 👯 I’m looking to collaborate with startups and on open sources
 
